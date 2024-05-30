@@ -23,3 +23,13 @@
 **/values.dev.yaml
 LICENSE
 README.md
+bin
+obj
+.vs
+.vscode
+*.md
+*.git
+*.gitignore
+docker-compose.yml
+Dockerfile
+*.log

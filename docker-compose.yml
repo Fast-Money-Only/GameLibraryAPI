@@ -1,7 +1,7 @@
 version: '3.8'
 services:
   business:
-    image: magnusandersen/gamelibrary:business
+    image: magnusandersen/gamelibrarymp:business
     restart: always
     environment:
       - DATABASE_HOST=app-database
